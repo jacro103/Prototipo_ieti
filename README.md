@@ -26,7 +26,8 @@ Desarrollar un prototipo visual usando IA Generativa y un modelo de datos, y lue
 2. Diseño del Modelo de Datos:
 #### Diagrama de clases
 
-![alt text](<img\Untitled Diagram-1.jpg>)
+![Untitled Diagram-1](https://github.com/user-attachments/assets/b957b153-0050-42a9-9e71-63d44f444d10)
+
 - Definir el modelo de datos (usuarios, productos, pedidos). ✅
 - Implementar clases con los tipos de datos y métodos necesarios. ✅
 3. Prototipo Visual con IA Generativa:
@@ -35,9 +36,11 @@ Desarrollar un prototipo visual usando IA Generativa y un modelo de datos, y lue
 Se desarrollaron prototipos visuales mediante la herramienta de [DALL-E](https://github.com/jacro103/Prototipo_ieti) donde DALL-E es un modelo de inteligencia artificial desarrollado por OpenAI que puede generar imágenes a partir de descripciones textuales. 
 
 ## Login
-![LOGIN](img\image-1.png)
+![LOGIN](https://github.com/user-attachments/assets/a001fe7f-5fb3-49fe-9f2d-365368d34d90)
 
-![alt text](img\image-2.png)
+
+![INTERFAZ](https://github.com/user-attachments/assets/dd2ea5f0-8492-470d-98e7-5b9d14b847a4)
+
 
 4. Implementación de Controladores y Servicios REST:
 
@@ -48,7 +51,8 @@ Se desarrollaron prototipos visuales mediante la herramienta de [DALL-E](https:/
 5. Integración con MongoDB:
 
 - Crear y configurar un cluster en MongoDB Atlas. ✅
-![alt text](<img\imagen (1)-1.png>)
+![imagen (1)-1](https://github.com/user-attachments/assets/9a4a2035-94ce-4921-a5bc-9f07c7571684)
+
 - Conectar la base de datos MongoDB con el proyecto. ✅
 - Implementar operaciones de base de datos en los controladores. ✅
 Ejemplo de Proyecto: EcomHub
