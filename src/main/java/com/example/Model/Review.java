@@ -1,6 +1,6 @@
 package com.example.Model;
 
-import java.util.Date;
+import java.sql.Date;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
@@ -12,12 +12,11 @@ import jakarta.persistence.ManyToOne;
 import jakarta.persistence.OneToOne;
 import jakarta.persistence.Table;
 
-
 @Entity
 @Table(name = "review")
 public class Review {
 
-    @Id
+     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(unique = true, nullable = false)
     private Long id;
@@ -33,11 +32,9 @@ public class Review {
     @OneToOne
     @JoinColumn(name = "recomendation")
     private Place Place;
-
-
-
+    
     public Review(Long id, Date date, Integer score, String comment, com.example.Model.User user,
-                  com.example.Model.Place place) {
+            com.example.Model.Place place) {
         this.id = id;
         this.date = date;
         this.score = score;
@@ -46,9 +43,6 @@ public class Review {
         Place = place;
     }
 
-    public Review() {
-
-    }
 
     public Date getDate() {
         return date;
@@ -88,14 +82,6 @@ public class Review {
 
     public void setPlace(Place place) {
         Place = place;
-    }
-
-    public Long getId() {
-        return id;
-    }
-
-    public void setId(Long id) {
-        this.id = id;
     }
 
     @Override
@@ -153,4 +139,8 @@ public class Review {
         return true;
     }
 
+
+
+
+    
 }
