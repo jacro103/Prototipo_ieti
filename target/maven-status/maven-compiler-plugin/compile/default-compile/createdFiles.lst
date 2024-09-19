@@ -1,0 +1,15 @@
+com\example\Exception\UserNotFoundException.class
+com\example\IetiApplication.class
+com\example\Controller\RecomendationController.class
+com\example\Repository\IUserRepository.class
+com\example\Controller\PlaceController.class
+com\example\Controller\PreferenceController.class
+com\example\Model\GenericResponse.class
+com\example\Service\UserService.class
+com\example\Controller\HealthController.class
+com\example\Controller\UserController.class
+com\example\InitIetiApplication.class
+com\example\Model\User.class
+com\example\Controller\LocationController.class
+com\example\Controller\RatingController.class
+com\example\Controller\ReviewController.class
