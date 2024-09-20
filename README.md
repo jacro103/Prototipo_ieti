@@ -66,7 +66,7 @@ Descripción: EcomHub es una plataforma de ecommerce donde los usuarios pueden c
 
 * **Cesar Javier Pineda Delgado** - *CesarPineda14* - [CesarPineda14](https://github.com/CesarPineda14)
 * **Yhonatan Steven Gomez Jimenez** - *YhonatanGoomez* - [YhonatanGoomez](https://github.com/YhonatanGoomez)
-* **Steven Alejandro Huertas Lemus** - *jacro103* - [jacro103](https://github.com/AlejandroLHuertass)
-* **José Alejandro Correa Rodríguez** - *Alejandrolhuertass* - [YhonatanGoomez](https://github.com/jacro103)
+* **Steven Alejandro Huertas Lemus** - *AlejandroLHuertass* - [AlejandroLHuertass](https://github.com/AlejandroLHuertass)
+* **José Alejandro Correa Rodríguez** - *jacro103* - [jacro103](https://github.com/jacro103)
 * **Carlos Alberto Sorza Gomez** - *carlossorza* - [carlossorza](https://github.com/CarlosSorza)
 
